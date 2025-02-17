@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processus du génie logiciel - GLO-2003/Podcast/Podcast.md",
+                "file": "Processus du génie logiciel - GLO-2003/Processus du génie logiciel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Podcast"
+              "title": "Processus du génie logiciel"
             }
           }
         ]
@@ -170,6 +170,18 @@
   },
   "active": "c4bf31dee3e073a4",
   "lastOpenFiles": [
+    "Processus du génie logiciel - GLO-2003/Podcast/Podcast.md",
+    "OS/Images/Pasted image 20250217131616.png",
+    "OS/Images/Pasted image 20250217121044.png",
+    "OS/Images/Pasted image 20250217115835.png",
+    "OS/Images",
+    "OS/Thread.md",
+    "OS/Processus.md",
+    "OS/OS.md",
+    "OS/Introduction.md",
+    "OS/CPU.md",
+    "OS/Concurrence.md",
+    "OS",
     "Processus du génie logiciel - GLO-2003/Podcast/Clean Code Principles_ A Developer's Methodology.wav",
     "Processus du génie logiciel - GLO-2003/Processus du génie logiciel.md",
     "Clean Code Principles_ A Developer's Methodology.wav",
@@ -181,7 +193,6 @@
     "Processus du génie logiciel - GLO-2003/Exercices/Gestion des exigences - exercices.md",
     "Processus du génie logiciel - GLO-2003/Exercices/Introduction - Exercices.md",
     "Processus du génie logiciel - GLO-2003/Gestion des exigences.md",
-    "Processus du génie logiciel - GLO-2003/Podcast/Podcast.md",
     "Processus du génie logiciel - GLO-2003/Gestion de configuration et du changement (GCC).md",
     "Processus du génie logiciel - GLO-2003/Podcast",
     "Processus du génie logiciel - GLO-2003/Cycle de vie logiciel.md",
@@ -199,17 +210,9 @@
     "Processus du génie logiciel - GLO-2003/Images/Pasted image 20250214151019.png",
     "Processus du génie logiciel - GLO-2003/Images/Pasted image 20250214150947.png",
     "Processus du génie logiciel - GLO-2003/Images/Pasted image 20250214125526.png",
-    "Processus du génie logiciel - GLO-2003/Images/Pasted image 20250214123916.png",
-    "Processus du génie logiciel - GLO-2003/Images/Pasted image 20250214122310.png",
-    "Processus du génie logiciel - GLO-2003/Images/Pasted image 20250214121103.png",
     "Processus du génie logiciel - GLO-2003/Images",
     "Réseaux et ingénierie de la transmission des données - GLO-2000/Réseaux et ingénierie de la transmission des données - GLO-2000.md",
     "Processus du génie logiciel - GLO-2003",
-    "Réseaux et ingénierie de la transmission des données - GLO-2000/OSI.md",
-    "Réseaux et ingénierie de la transmission des données - GLO-2000/1- Couche Physique.md",
-    "Réseaux et ingénierie de la transmission des données - GLO-2000/Introduction.md",
-    "1-.md",
-    "Nom de la Note.md",
     "Réseaux et ingénierie de la transmission des données - GLO-2000",
     "desktop.ini"
   ]
