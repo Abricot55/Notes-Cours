@@ -23,4 +23,4 @@ https://notebooklm.google.com/notebook/39d534f9-5d53-49ab-a7e4-21e945ebef9f?_gl=
 
 ## Podcasts 
 
-[[Podcast | Introduction à Test]]
+[[Processus du génie logiciel - GLO-2003/Podcast/Podcast| Introduction à Test]]
