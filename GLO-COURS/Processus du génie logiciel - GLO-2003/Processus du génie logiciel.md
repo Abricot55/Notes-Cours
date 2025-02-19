@@ -8,6 +8,8 @@
 [[Analyse et conception]]
 [[Implémentation]]
 [[Tests]]
+[[Gestion de projet]]
+[[Déploiement Continu]]
 
 ## Exercices
 
